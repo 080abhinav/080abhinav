@@ -89,10 +89,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=080abhinav&style=flat-square&color=39d353" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=080abhinav&color=2ea043" alt="Profile Views" />
   &nbsp;
   <a href="https://wakatime.com/@f36c5ae1-4184-499e-8fe0-db3ff2ed1c6a">
-    <img src="https://wakatime.com/badge/user/f36c5ae1-4184-499e-8fe0-db3ff2ed1c6a.svg?color=39D353&style=flat-square" alt="Wakatime" />
+    <img src="https://wakatime.com/badge/user/f36c5ae1-4184-499e-8fe0-db3ff2ed1c6a.svg?color=2ea043" alt="Wakatime" />
   </a>
 </p>
 
