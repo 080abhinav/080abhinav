@@ -23,7 +23,7 @@ jobs:
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: ${{ github.repository_owner }}
-          options: radius=16&theme=gotham&area=true&hide_title=false&hide_border=false&custom_title=Contribution%20Graph
+          options: radius=8&bg_color=0d1117&color=39D353&line=39D353&point=39D353&area_color=39D353&title_color=39D353&text_color=39D353&border_color=30363d&area=true&hide_title=false&hide_border=false&custom_title=Contribution%20Graph
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 

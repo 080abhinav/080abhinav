@@ -81,7 +81,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/080abhinav/080abhinav/languages-output/languages.svg" alt="Top Languages" height="165" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=080abhinav&theme=gotham&hide_border=false" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=080abhinav&background=0D1117&border=30363D&stroke=30363D&ring=F97316&fire=F97316&currStreakNum=39D353&currStreakLabel=39D353&sideNums=39D353&sideLabels=8B949E&dates=8B949E&border_radius=8&hide_border=false" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
@@ -89,10 +89,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=080abhinav&style=flat-square&color=38bdf8" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=080abhinav&style=flat-square&color=39d353" alt="Profile Views" />
   &nbsp;
   <a href="https://wakatime.com/@f36c5ae1-4184-499e-8fe0-db3ff2ed1c6a">
-    <img src="https://wakatime.com/badge/user/f36c5ae1-4184-499e-8fe0-db3ff2ed1c6a.svg" alt="Wakatime" />
+    <img src="https://wakatime.com/badge/user/f36c5ae1-4184-499e-8fe0-db3ff2ed1c6a.svg?color=39D353&style=flat-square" alt="Wakatime" />
   </a>
 </p>
 
@@ -104,10 +104,10 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/080abhinav/080abhinav/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/080abhinav/080abhinav/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="Bomberman Contribution Graph" src="https://raw.githubusercontent.com/080abhinav/080abhinav/pacman-output/bomberman-contribution-graph.svg?game=bomberman" width="100%">
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/080abhinav/080abhinav/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/080abhinav/080abhinav/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/080abhinav/080abhinav/pacman-output/galaga-contribution-graph.svg?game=galaga">
 </picture>
 
 </div>
