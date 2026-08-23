@@ -46,7 +46,7 @@
   <text class="terminal-text" x="25" y="90"><tspan class="punct">{</tspan></text>
   
   <text class="terminal-text" x="45" y="115">
-    <tspan class="key">"name"</tspan><tspan class="punct">: </tspan><tspan class="str">"Abhinav"</tspan><tspan class="punct">,</tspan>
+    <tspan class="key">"name"</tspan><tspan class="punct">: </tspan><tspan class="str">"Abhinav Singh"</tspan><tspan class="punct">,</tspan>
   </text>
 
   <text class="terminal-text" x="45" y="140">
@@ -58,7 +58,7 @@
   </text>
 
   <text class="terminal-text" x="45" y="190">
-    <tspan class="key">"fun_fact"</tspan><tspan class="punct">: </tspan><tspan class="str">"Turn every quirky idea into a working prototype ⚡"</tspan>
+    <tspan class="key">"fun_fact"</tspan><tspan class="punct">: </tspan><tspan class="str">"Turn every quirky idea into a working prototype"</tspan>
   </text>
 
   <text class="terminal-text" x="25" y="215"><tspan class="punct">}</tspan></text>
