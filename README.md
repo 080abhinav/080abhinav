@@ -74,20 +74,6 @@
 
 ---
 
-### 👾 Contribution Arcade
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/080abhinav/080abhinav/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/080abhinav/080abhinav/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="Bomberman Contribution Graph" src="https://raw.githubusercontent.com/080abhinav/080abhinav/pacman-output/bomberman-contribution-graph.svg?game=bomberman" width="100%">
-</picture>
-
-</div>
-
----
-
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
@@ -109,6 +95,20 @@
     <img src="https://wakatime.com/badge/user/f36c5ae1-4184-499e-8fe0-db3ff2ed1c6a.svg" alt="Wakatime" />
   </a>
 </p>
+
+</div>
+
+---
+
+### 👾 Contribution Arcade
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/080abhinav/080abhinav/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/080abhinav/080abhinav/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="Bomberman Contribution Graph" src="https://raw.githubusercontent.com/080abhinav/080abhinav/pacman-output/bomberman-contribution-graph.svg?game=bomberman" width="100%">
+</picture>
 
 </div>
 
