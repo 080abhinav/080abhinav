@@ -2,7 +2,7 @@
 
 <!-- Typing Header -->
 <a href="https://github.com/080abhinav">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=28&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Abhinav+👋;Code+%7C+Build+%7C+Break+%7C+Repeat;Exploring+AI+Agents+%26+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=28&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Abhinav;Code+%7C+Build+%7C+Break+%7C+Repeat;Exploring+AI+Agents+and+Systems" alt="Typing SVG" />
 </a>
 
 </div>
@@ -93,12 +93,8 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/080abhinav/080abhinav/stats-output/stats.svg" alt="Abhinav's GitHub Stats" height="165" />
-  &nbsp;
   <img src="https://raw.githubusercontent.com/080abhinav/080abhinav/languages-output/languages.svg" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
+  &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=080abhinav&theme=gotham&hide_border=false" alt="GitHub Streak" height="165" />
 </p>
 
