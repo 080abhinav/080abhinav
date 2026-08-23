@@ -81,7 +81,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/080abhinav/080abhinav/languages-output/languages.svg" alt="Top Languages" height="165" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=080abhinav&background=0D1117&border=30363D&stroke=30363D&ring=F97316&fire=F97316&currStreakNum=39D353&currStreakLabel=39D353&sideNums=39D353&sideLabels=8B949E&dates=8B949E&border_radius=8&hide_border=false" alt="GitHub Streak" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=080abhinav&background=0D1117&border=30363D&stroke=30363D&ring=F97316&fire=F97316&currStreakNum=39D353&currStreakLabel=39D353&sideNums=39D353&sideLabels=8B949E&dates=8B949E&border_radius=8&hide_border=false" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
